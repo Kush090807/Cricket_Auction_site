@@ -1,0 +1,8 @@
+Timestamp
+Full Name
+Hostel Room Number
+Group Name
+Upload Latest Passport Size Photograph (JPG/PNG only) 📸
+Choose Your Role - What will you bring to the pitch? 🏏
+Bowling Type (Only answer if 'Bowler' was selected above)
+Match Day Availability - Are you ready to rumble? 🗓️
